@@ -18,8 +18,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-
-### Currently what i am listening...
 <a href="https://focusthen-current-playing.vercel.app/?open">
     <img src="https://focusthen-current-playing.vercel.app//now-playing" width="256" height="64" alt="Now Playing">
 </a>
