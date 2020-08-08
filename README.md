@@ -20,4 +20,6 @@
 
 
 ### Currently what i am listening...
-![Spotify](https://focusthen-spotify.herokuapp.com/v2/currentplaying)
+<a href="https://focusthen.tech/">
+    <img src="https://focusthen-spotify.herokuapp.com/v2/currentplaying" alt="Now Playing">
+</a>
