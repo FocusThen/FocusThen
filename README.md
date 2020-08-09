@@ -22,8 +22,3 @@
 <a href="https://focusthen-current-playing.vercel.app/?open">
     <img src="https://focusthen-current-playing.vercel.app//now-playing" width="256" height="64" alt="Now Playing">
 </a>
-<br/>
-<a href="focusthen.tech">
-    <h4>My version Spotify current playing</h4>
-    <img src="https://focusthen-spotify.herokuapp.com/v2/current-playing" alt="Now Playing">
-</a>
